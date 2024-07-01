@@ -4,7 +4,7 @@ import os
 from messages import initial_messages
 
 # Set your OpenAI API key
-openai.api_key = "sk-proj-eX1GCPhH4RSXjkB12X9aT3BlbkFJf30CtDoAAs8MpFZjefOu"
+openai.api_key = "xxx"
 
 # Define the path to the CSV file within your project directory
 csv_file_path = os.path.join("/Users/purvabadve/PycharmProjects/EDA_OpenAI/venv/lib/data", "youtube.csv")
