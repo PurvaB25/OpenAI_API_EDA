@@ -17,3 +17,5 @@ This project leverages OpenAI's GPT-4 to assist with EDA by:
 
 
 <img width="1344" alt="Screenshot 2024-07-02 at 11 15 26 AM" src="https://github.com/PurvaB25/OpenAI_API_EDA/assets/100107332/d0ff2306-9fa3-4f9f-a1d2-04e1f68cdb0d">
+<img width="1334" alt="Screenshot 2024-07-02 at 11 15 49 AM" src="https://github.com/PurvaB25/OpenAI_API_EDA/assets/100107332/35437994-d408-4041-8598-205321b1c523">
+
